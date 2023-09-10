@@ -1,2 +1,1 @@
-# Linktera Robotics Acitivities
-.
+
